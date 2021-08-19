@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DiceNameIsMy or Nurdaulet
-- 👀 I’m interested in some low-level Science, backend development and ux design(a bit)
+- 👀 I’m interested in some low-level Science, puzzles and backend development.
 - 🌱 I’m currently learning everything i think will be useful!
-- 📫 How to reach me... well.. my Telegram is @DiceNameIsMy and my Email is dicenameismy@gmail.com
+- 📫 How to reach me: Email is dicenameismy@gmail.com or my [Telegram](https://t.me/DiceNameIsMy)
