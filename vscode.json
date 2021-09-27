@@ -2,10 +2,16 @@
     "workbench.iconTheme": "vscode-icons",
 
     "workbench.colorCustomizations": {
+        "activityBar.background": "#222222",
+
         "sideBar.background": "#1b1b1b",
         
         "editor.background": "#141414",
 
+        "sideBarSectionHeader.background": "#292929",
+
+        "activityBar.border": "#000000",
+        "statusBar.background": "#2d4aa8",
     },
     
     "editor.tokenColorCustomizations": {
