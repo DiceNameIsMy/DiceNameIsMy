@@ -1,5 +1,5 @@
 {
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
 
     "workbench.colorCustomizations": {
         "activityBar.background": "#222222",
@@ -17,8 +17,44 @@
     "editor.tokenColorCustomizations": {
         "comments": "#30aa11",
     },
+    "terminal.integrated.copyOnSelection": true,
 
     "python.analysis.autoImportCompletions": false,
     "python.defaultInterpreterPath": "venv/bin/python",
-    "python.languageServer": "Pylance"
+    "python.languageServer": "Pylance",
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length", "72"
+    ],
+
+    // Go settings
+    "go.useLanguageServer": true,
+    "go.languageServerExperimentalFeatures": {
+        "format": true,
+        "diagnostics": true,
+        "documentLink": true
+    },
+    "[go]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "gopls": {
+        "deepCompletion": true
+    },
+
+    "git.confirmSync": false,
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.startupEditor": "none",
+    "editor.inlineSuggest.enabled": true,
+
+    // Copilot
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": false
+    }
+
+
 }
