@@ -13,6 +13,6 @@
 
 **My Favorite...** 
 
-[Youtube Channel is Continuous Delivery.](https://www.youtube.com/c/ContinuousDelivery/)
+Youtube Channel is [Continuous Delivery.](https://www.youtube.com/c/ContinuousDelivery/)
 
-[Book I've read is The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+Book I've read is [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
