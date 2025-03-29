@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Nur
 
 Software engineer. A student at Brno University of Technology. What I do:
-- Studying Tech at Uni, graduating in 2026
-- ML/AI - as a hobby
-- Human nature, biology, a bit of history - in my spare time
+- Studying Information Technology.
+- Machine Learning & Data Analysis related pet projects.
+- Consume content on physics, cosmology, biology, maths, human nature... science in general.
